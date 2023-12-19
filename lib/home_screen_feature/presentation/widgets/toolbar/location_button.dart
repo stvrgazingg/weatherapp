@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 
 import '../shakeable_dialog.dart';
-import '../WeatherApp.dart';
+import '../weather_app.dart';
 
 class LocationButton extends StatefulWidget {
   const LocationButton({Key? key}) : super(key: key);

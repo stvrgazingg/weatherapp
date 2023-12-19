@@ -3,7 +3,7 @@ import 'package:flutter_shakemywidget/flutter_shakemywidget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../screen/MyApp.dart';
+import '../screen/home_screen.dart';
 import 'bloc/weather_bloc.dart';
 
 String cityName = 'London';

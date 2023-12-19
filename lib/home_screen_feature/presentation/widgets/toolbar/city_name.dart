@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:weatherapp/home_screen_feature/presentation/main.dart';
 
-import '../WeatherApp.dart';
+import '../weather_app.dart';
 
 
 class CityName extends StatefulWidget {

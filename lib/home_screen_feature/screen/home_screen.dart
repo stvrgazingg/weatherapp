@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../presentation/widgets/WeatherApp.dart';
+import '../presentation/widgets/weather_app.dart';
 
 
 class MyApp extends StatefulWidget {
